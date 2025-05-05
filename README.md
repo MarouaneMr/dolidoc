@@ -70,4 +70,10 @@ Subscription and payment flows (Apple Pay, Bank Transfer, etc.)
 - Modular screen-based architecture
 - Organized by **role-based access**
 
+## Dolidoc Frontend Demo
+
+[![Watch the Demo](IMG_0860.PNG)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtube.com/shorts/QBguoBBh4w4))
+
+Click the image above to watch a quick walkthrough of the main features and user interface.
+
 
